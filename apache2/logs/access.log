@@ -9740,3 +9740,4 @@
 127.0.0.1 - - [15/Sep/2022:22:34:23 +0200] "GET /wordpress/wp-content/plugins/elementor/assets//images/app/site-editor/products.svg HTTP/1.1" 200 50136
 127.0.0.1 - - [15/Sep/2022:22:34:23 +0200] "GET /wordpress/wp-content/plugins/elementor/assets//images/app/site-editor/product.svg HTTP/1.1" 200 30831
 127.0.0.1 - - [15/Sep/2022:22:34:23 +0200] "GET /wordpress/wp-content/plugins/elementor/assets//images/app/site-editor/error-404.svg HTTP/1.1" 200 11549
+127.0.0.1 - - [15/Sep/2022:23:20:57 +0200] "GET /wordpress/wp-content/uploads/elementor/css/post-5.css?ver=1663269011 HTTP/1.1" 200 300
