@@ -1,0 +1,132 @@
+2022-09-14 15:44:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-09-14 15:44:34 0 [Note] InnoDB: Uses event mutexes
+2022-09-14 15:44:34 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-09-14 15:44:34 0 [Note] InnoDB: Number of pools: 1
+2022-09-14 15:44:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-09-14 15:44:34 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-09-14 15:44:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-09-14 15:44:35 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-09-14 15:44:35 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-09-14 15:44:35 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-09-14 15:44:35 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-09-14 15:44:35 0 [Note] InnoDB: Waiting for purge to start
+2022-09-14 15:44:35 0 [Note] InnoDB: 10.4.25 started; log sequence number 60967; transaction id 20
+2022-09-14 15:44:35 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-6.0.2-0\mariadb\data\ib_buffer_pool
+2022-09-14 15:44:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-09-14 15:44:35 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-09-14 15:44:35 0 [Note] InnoDB: Buffer pool(s) load completed at 220914 15:44:35
+2022-09-14 15:44:35 0 [Note] Reading of all Master_info entries succeeded
+2022-09-14 15:44:35 0 [Note] Added new Master_info '' to hash table
+2022-09-14 15:44:35 0 [Note] C:\Bitnami\WORDPR~1.2-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.25-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-09-14 15:45:11 0 [Note] C:\Bitnami\WORDPR~1.2-0\mariadb\bin\mysqld.exe (initiated by: root[root] @ localhost [127.0.0.1]): Normal shutdown
+2022-09-14 15:45:11 0 [Note] Event Scheduler: Purging the queue. 0 events
+2022-09-14 15:45:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-09-14 15:45:11 0 [Note] InnoDB: Starting shutdown...
+2022-09-14 15:45:11 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Bitnami\wordpress-6.0.2-0\mariadb\data\ib_buffer_pool
+2022-09-14 15:45:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 220914 15:45:11
+2022-09-14 15:45:13 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-09-14 15:45:13 0 [Note] InnoDB: Shutdown completed; log sequence number 60976; transaction id 21
+2022-09-14 15:45:13 0 [Note] C:\Bitnami\WORDPR~1.2-0\mariadb\bin\mysqld.exe: Shutdown complete
+
+2022-09-14 15:46:17 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-09-14 15:46:17 0 [Note] InnoDB: Uses event mutexes
+2022-09-14 15:46:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-09-14 15:46:17 0 [Note] InnoDB: Number of pools: 1
+2022-09-14 15:46:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-09-14 15:46:17 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-09-14 15:46:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-09-14 15:46:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-09-14 15:46:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-09-14 15:46:17 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-09-14 15:46:17 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-09-14 15:46:17 0 [Note] InnoDB: Waiting for purge to start
+2022-09-14 15:46:17 0 [Note] InnoDB: 10.4.25 started; log sequence number 60976; transaction id 20
+2022-09-14 15:46:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-09-14 15:46:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Bitnami\wordpress-6.0.2-0\mariadb\data\ib_buffer_pool
+2022-09-14 15:46:17 0 [Note] Server socket created on IP: '127.0.0.1'.
+2022-09-14 15:46:17 0 [Note] InnoDB: Buffer pool(s) load completed at 220914 15:46:17
+2022-09-14 15:46:18 0 [Note] Reading of all Master_info entries succeeded
+2022-09-14 15:46:18 0 [Note] Added new Master_info '' to hash table
+2022-09-14 15:46:18 0 [Note] C:\Bitnami\WORDPR~1.2-0\mariadb\bin\mysqld.exe: ready for connections.
+Version: '10.4.25-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-09-14 15:56:22 45 [Warning] Aborted connection 45 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:56:47 46 [Warning] Aborted connection 46 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:56:59 47 [Warning] Aborted connection 47 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:57:30 48 [Warning] Aborted connection 48 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:58:07 49 [Warning] Aborted connection 49 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:58:19 50 [Warning] Aborted connection 50 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:58:36 51 [Warning] Aborted connection 51 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 15:58:53 52 [Warning] Aborted connection 52 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:00:42 64 [Warning] Aborted connection 64 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:01:12 67 [Warning] Aborted connection 67 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:01:25 68 [Warning] Aborted connection 68 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:02:21 72 [Warning] Aborted connection 72 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:03:10 73 [Warning] Aborted connection 73 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:06:50 102 [Warning] Aborted connection 102 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:06:50 105 [Warning] Aborted connection 105 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:06:50 104 [Warning] Aborted connection 104 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:07:03 107 [Warning] Aborted connection 107 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:07:21 108 [Warning] Aborted connection 108 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:07:34 109 [Warning] Aborted connection 109 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:10:20 110 [Warning] Aborted connection 110 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:10:20 111 [Warning] Aborted connection 111 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:10:33 112 [Warning] Aborted connection 112 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:48:24 156 [Warning] Aborted connection 156 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:48:38 158 [Warning] Aborted connection 158 to db: 'unconnected' user: 'unauthenticated' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:48:38 158 [Warning] Aborted connection 158 to db: 'unconnected' user: 'unauthenticated' host: 'localhost' (This connection closed normally without authentication)
+2022-09-14 16:48:38 157 [Warning] Aborted connection 157 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:53:09 159 [Warning] Aborted connection 159 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:53:32 161 [Warning] Aborted connection 161 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:53:57 162 [Warning] Aborted connection 162 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:53:57 163 [Warning] Aborted connection 163 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:54:06 165 [Warning] Aborted connection 165 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:54:06 164 [Warning] Aborted connection 164 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:54:21 166 [Warning] Aborted connection 166 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:54:46 167 [Warning] Aborted connection 167 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:55:00 168 [Warning] Aborted connection 168 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:55:15 169 [Warning] Aborted connection 169 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:55:29 170 [Warning] Aborted connection 170 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:55:54 171 [Warning] Aborted connection 171 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:56:09 172 [Warning] Aborted connection 172 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:56:23 173 [Warning] Aborted connection 173 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:56:44 174 [Warning] Aborted connection 174 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:57:02 175 [Warning] Aborted connection 175 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:57:21 176 [Warning] Aborted connection 176 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:57:46 177 [Warning] Aborted connection 177 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:58:01 178 [Warning] Aborted connection 178 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:58:48 179 [Warning] Aborted connection 179 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 16:59:09 180 [Warning] Aborted connection 180 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:00:22 181 [Warning] Aborted connection 181 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:00:44 182 [Warning] Aborted connection 182 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:07:25 190 [Warning] Aborted connection 190 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:07:39 191 [Warning] Aborted connection 191 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:08:18 193 [Warning] Aborted connection 193 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:08:18 194 [Warning] Aborted connection 194 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:08:37 195 [Warning] Aborted connection 195 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:08:50 197 [Warning] Aborted connection 197 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:09:09 198 [Warning] Aborted connection 198 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:09:25 199 [Warning] Aborted connection 199 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:12:48 203 [Warning] Aborted connection 203 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:12:58 204 [Warning] Aborted connection 204 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:13:11 205 [Warning] Aborted connection 205 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:13:11 206 [Warning] Aborted connection 206 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:14:02 211 [Warning] Aborted connection 211 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:14:11 212 [Warning] Aborted connection 212 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:14:21 213 [Warning] Aborted connection 213 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:15:04 214 [Warning] Aborted connection 214 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:15:04 218 [Warning] Aborted connection 218 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:20:40 230 [Warning] Aborted connection 230 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:20:51 231 [Warning] Aborted connection 231 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:21:06 232 [Warning] Aborted connection 232 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:21:23 233 [Warning] Aborted connection 233 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:22:11 234 [Warning] Aborted connection 234 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:22:27 235 [Warning] Aborted connection 235 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:24:33 237 [Warning] Aborted connection 237 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:26:56 246 [Warning] Aborted connection 246 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:26:56 247 [Warning] Aborted connection 247 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:27:05 248 [Warning] Aborted connection 248 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:27:15 249 [Warning] Aborted connection 249 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-14 17:27:29 250 [Warning] Aborted connection 250 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-15  5:47:14 2907 [Warning] Aborted connection 2907 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
+2022-09-15  5:49:40 2917 [Warning] Aborted connection 2917 to db: 'bitnami_wordpress' user: 'bn_wordpress' host: 'localhost' (Got an error reading communication packets)
