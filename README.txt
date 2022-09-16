@@ -1,4 +1,23 @@
-                    WordPress packaged by Bitnami 6.0.2-0
+          SovTech Assessment
+	  =================
+	  
+	  Theme used
+	  ============
+	  1. Astra theme. ( I used different blocks from different templates from this theme)
+	  
+	  Plugins used
+	  ===========
+	  1. Envato elements
+	  2. Elementor
+	  3. Yoast SEO
+	     
+	     
+	     
+	     
+	     
+	     
+	     
+	     WordPress packaged by Bitnami 6.0.2-0
                   ==============================
 
 
